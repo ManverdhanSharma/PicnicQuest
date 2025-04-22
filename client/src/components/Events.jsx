@@ -13,7 +13,7 @@ function Events() {
       time: "10:00 AM - 10:00 PM",
       location: "Island Grounds, Chennai",
       capacity: "5000+ attendees",
-      image: "https://images.unsplash.com/photo-1596451984027-b5d6ea0bbc5e"
+      image: "/images/events/cff.jpg"
     },
     {
       name: "Marina Beach Cultural Night",
@@ -31,7 +31,7 @@ function Events() {
       time: "7:00 AM - 10:00 AM",
       location: "Georgetown",
       capacity: "50 participants",
-      image: "https://images.unsplash.com/photo-1626100134610-d0b6c5c4e534"
+      image: "/images/events/guidee.avif"
     },
     {
       name: "Mylapore Temple Festival",
@@ -40,7 +40,61 @@ function Events() {
       time: "5:00 AM - 10:00 PM",
       location: "Kapaleeshwarar Temple",
       capacity: "10000+ attendees",
-      image: "https://images.unsplash.com/photo-1582651957695-5506eb1f3bde"
+      image: "/images/events/mylapore.jpg"
+    },
+    {
+      name: "Made of Chennai Food & Music Festival",
+      description: "A vibrant fusion of Chennai's culinary delights and live music performances, offering a diverse range of food stalls and entertainment.",
+      date: "2025-09-13 to 2025-09-14",
+      time: "4:00 PM onwards",
+      location: "Island Grounds, Chennai",
+      capacity: "5000+ attendees",
+      image: "/images/events/mcfm.jpg"
+    },
+    {
+      name: "Fusion Unavu Thiruvizha",
+      description: "A culinary extravaganza showcasing traditional and fusion South Indian dishes, with live music and cultural performances.",
+      date: "2025-03-07 to 2025-03-09",
+      time: "12:00 PM - 8:00 PM",
+      location: "YMCA Grounds, Nandanam, Chennai",
+      capacity: "2000+ attendees",
+      image: "/images/events/fusion.jpg"
+    },
+    {
+      name: "Sunburn Chennai",
+      description: "One of the biggest electronic dance music festivals in India, featuring international DJs and electrifying performances.",
+      date: "2025-12-18 to 2025-12-20",
+      time: "6:00 PM onwards",
+      location: "Island Grounds, Chennai",
+      capacity: "10,000+ attendees",
+      image: "/images/events/alan.png"
+    },
+    {
+      name: "Chennai International Film Festival",
+      description: "A celebration of global cinema, featuring films from across the world with screenings, discussions, and awards.",
+      date: "2025-12-10 to 2025-12-15",
+      time: "10:00 AM - 9:00 PM",
+      location: "Sathyam Cinemas, Royapettah, Chennai",
+      capacity: "2000+ attendees",
+      image: "/images/events/ciff.jpg"
+    },
+    {
+      name: "A.R. Rahman Live in Concert",
+      description: "A spectacular live concert by the legendary A.R. Rahman, featuring his iconic hits and collaborations with global artists.",
+      date: "2025-11-22",
+      time: "7:00 PM onwards",
+      location: "Jawaharlal Nehru Stadium, Chennai",
+      capacity: "30,000+ attendees",
+      image: "/images/events/arr.jpg"
+    },
+    {
+      name: "Chennai Music Festival",
+      description: "A classical music festival showcasing the finest carnatic music performances by legendary artists and new talents.",
+      date: "2025-12-25 to 2025-12-31",
+      time: "6:00 PM - 10:00 PM",
+      location: "Music Academy, Chennai",
+      capacity: "1000+ attendees",
+      image: "/images/events/mcfm.jpg"
     }
   ];
 

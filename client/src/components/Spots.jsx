@@ -38,7 +38,7 @@ function Spots() {
     },
     {
       name: "Kapaleeshwarar Temple",
-      image: "/images/spots/kabali.jpg",
+      image: "/images/spots/kalapeeshwara.jpg",
       description: "Historic temple known for Dravidian architecture and spiritual ambiance.",
       timings: "5:00 AM - 9:00 PM",
       contact: "044-2464-1670",
@@ -78,7 +78,7 @@ function Spots() {
     },
     {
       name: "Arignar Anna Zoological Park",
-      image: "/images/spots/arignar.jpg",
+      image: "/images/spots/arinagar.jpeg",
       description: "One of India’s largest zoos featuring exotic animals and safari rides.",
       timings: "9:00 AM - 5:00 PM (Closed on Tuesday)",
       contact: "044-2953-0032",
